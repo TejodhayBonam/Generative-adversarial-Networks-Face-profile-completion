@@ -1,6 +1,6 @@
 # Generative-adverserial-Networks-Face-profile-completion
 
-
+Based on the idea of expediting the process of catching criminals using Neural Networks.
 This project pertains to using Deep learning model like adverserial networks(2 CNN neural networks) compete against each other
 , One to generate fake images(generator) , other to defy it(discriminator). 
 
