@@ -26,6 +26,7 @@ there are two main concepts that we will need for the face Frontalization:
 2) The Generative Adversarial Network
 
 Encoders and Decoders
+
 The Encoder
 
 The network takes images that are sized 128 by 128 as input. Since the images are in colour (meaning 3 colour channels for each pixel), this results in the input being 3 × 128 × 128 = 49152 dimensional. We can get away with a mere 512 dimensional vector (which is simply another way of saying “512 numbers”) to encode all the information that we care about. This is an example of dimensionality reduction: the Encoder network learns a lower dimensional representation of the input. 
